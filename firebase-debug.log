@@ -1,0 +1,25 @@
+[debug] [2023-01-19T00:29:36.487Z] ----------------------------------------------------------------------
+[debug] [2023-01-19T00:29:36.489Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\USER\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-01-19T00:29:36.490Z] CLI Version:   11.20.0
+[debug] [2023-01-19T00:29:36.490Z] Platform:      win32
+[debug] [2023-01-19T00:29:36.490Z] Node Version:  v18.12.1
+[debug] [2023-01-19T00:29:36.491Z] Time:          Thu Jan 19 2023 08:29:36 GMT+0800 (台北標準時間)
+[debug] [2023-01-19T00:29:36.492Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-01-19T00:29:36.578Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-01-19T00:29:36.579Z] > authorizing via signed-in user (apple82835340@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\USER\Desktop\vue練習\customized-project
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
